@@ -3,3 +3,66 @@
   margin: 0;
   padding: 0;
 }
+
+h1 {
+  padding: auto 100px;
+  max-width: auto 100px;
+  background-color: lightgrey;
+  text-align: center;
+  height: 150px;
+  border-bottom: 5px solid black;
+  font-size: 28px;
+  margin-top: 0;
+  
+}
+
+.search-container {
+  display: flex;
+  align-items: left;
+}
+
+.blank-container {
+  display: flex;
+  align-items: center;
+}
+
+input {
+  width: 30%;
+  height:  20px;
+  padding: auto 14px;
+  margin: 10px;
+  box-sizing:border-box;
+  
+}
+
+.dropDown{
+  box-sizing:border-box;
+  width: 30%;
+  height:  20px;
+}
+
+
+h2 {
+  padding: auto 100px;
+  max-width: auto 100px;
+  text-align: left;
+  height: 150px;
+  font-size: 50px;
+  margin-top: 50px;
+  
+}
+
+
+p {
+  font-size: 12px;
+  font: black;
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+footer {
+  padding: auto 100px;
+  max-width: auto 100px;
+  background-color: lightgrey;
+  text-align: center;
+  border-top: solid black;
+}
